@@ -11,10 +11,7 @@ function DisplaySpeed() {
     "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200714180638/CIP_Launch-banner.png";
   var downloadSize = 5616998;
   var downloadImgSrc = new Image();
-  useEffect(()=>{
-    const interval = setInterval(downloadImgSrc.onload,2000);
-    return ()=> clearInterval(interval);
-  })
+ 
 
 
     
