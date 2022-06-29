@@ -1,0 +1,115 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: bisque;
+   
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+  color: deeppink;
+  text-align: center;
+}
+
+video{
+    margin-left: 27%;
+    border: 3px solid deeppink;
+    height:35%;
+    width:40%;
+}
+
+
+#enableBtn{
+    border-radius: 15px;
+    height: 30px;
+    width: 70px;
+    margin-left: 40%;
+    background-color: bisque;
+    color: darkslateblue;
+    border:none;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#enableBtn:hover{
+  color: brown;
+}
+
+#startBtn{
+    border-radius: 15px;
+    height: 30px;
+    width: 70px;
+    margin-left: 42%;
+    background-color: bisque;
+    color: darkslateblue;
+    
+}
+
+#stopBtn{
+    border-radius: 15px;
+    height:30px;
+    width: 70px;
+   margin-left: 42%;
+   background-color: bisque;
+   color: darkslateblue;
+    
+}
+
+#selfieBtn{
+   
+    border-radius: 15px;
+    height:30px;
+    width: 70px;
+   margin-left: 1%;
+   background-color: bisque;
+   color: darkslateblue;
+   
+}
+
+#downloadBtn{
+    border-radius: 15px;
+    height:30px;
+    width: 80px;
+   margin-left: 1%;
+   background-color: bisque;
+   color: darkslateblue;
+}
+
+.geocoord{
+   margin-left: 85%;
+}
+
+#myPic{
+    height: 17%;
+    width: 17%;
+    margin-top: 1%;
+    margin-left: 50%;
+    border: 3px solid deeppink;
+}
+#disableBtn{
+    border-radius: 15px;
+    height:30px;
+    width: 150px;
+   margin-left: 1%;
+   background-color: bisque;
+   color: darkslateblue;
+   border: none;
+   text-decoration: underline;
+   visibility: hidden;
+}
+
+#disableBtn:hover{
+  color: brown;
+}
+
+
+#timer{
+    color: red;
+    margin-left: 47%;
+}
+
+#Btndiv{
+    margin-top: 1%;
+    
+}
